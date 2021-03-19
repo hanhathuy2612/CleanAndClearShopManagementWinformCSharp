@@ -1,0 +1,407 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A3613285-DA9F-4337-978D-3E160641EF89}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Laundry_shop_manager</RootNamespace>
+    <AssemblyName>Laundry_shop_manager</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FontAwesome.Sharp, Version=5.15.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.5.15.3\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1427.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1427.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1427.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1427.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebDesign, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.11.0.3366.16\lib\Microsoft.ReportViewer.WebDesign.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.11.0.3366.16\lib\Microsoft.ReportViewer.WebForms.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1427.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DAO\ChiTietHoaDonDAO.cs" />
+    <Compile Include="DAO\DanhMucHangDAO.cs" />
+    <Compile Include="DAO\HangHoaDAO.cs" />
+    <Compile Include="DAO\HoaDonDAO.cs" />
+    <Compile Include="DAO\KhachHangDAO.cs" />
+    <Compile Include="DAO\NhanVienDAO.cs" />
+    <Compile Include="DTO\Account.cs" />
+    <Compile Include="DTO\ChiTietHoaDon.cs" />
+    <Compile Include="DTO\DanhMucHang.cs" />
+    <Compile Include="DTO\HangHoa.cs" />
+    <Compile Include="DTO\HoaDon.cs" />
+    <Compile Include="DTO\KhachHang.cs" />
+    <Compile Include="DTO\NhanVien.cs" />
+    <Compile Include="fDoimatkhauUsercontrol.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="fDoimatkhauUsercontrol.Designer.cs">
+      <DependentUpon>fDoimatkhauUsercontrol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fNhanhangUsercontrol.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="fNhanhangUsercontrol.Designer.cs">
+      <DependentUpon>fNhanhangUsercontrol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAO\AccountDAO.cs" />
+    <Compile Include="DAO\DataProvider.cs" />
+    <Compile Include="fHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fHome.Designer.cs">
+      <DependentUpon>fHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fLogin.Designer.cs">
+      <DependentUpon>fLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fQuanLyMatHang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="fQuanLyMatHang.Designer.cs">
+      <DependentUpon>fQuanLyMatHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fQuanLyNhanVien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="fQuanLyNhanVien.Designer.cs">
+      <DependentUpon>fQuanLyNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fThongkeUsercontrol.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="fThongkeUsercontrol.Designer.cs">
+      <DependentUpon>fThongkeUsercontrol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fThutien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="fThutien.Designer.cs">
+      <DependentUpon>fThutien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fQuanykhachhang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="fQuanykhachhang.Designer.cs">
+      <DependentUpon>fQuanykhachhang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fTrangchuUsercontrol.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="fTrangchuUsercontrol.Designer.cs">
+      <DependentUpon>fTrangchuUsercontrol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fTinhTrangGiac.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="fTinhTrangGiac.Designer.cs">
+      <DependentUpon>fTinhTrangGiac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pictureboxcircle.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SHOP_GIAC_UIDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SHOP_GIAC_UIDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SHOP_GIAC_UIDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SHOP_GIAC_UIDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SHOP_GIAC_UIDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SHOP_GIAC_UIDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SHOP_GIAC_UIDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SHOP_GIAC_UIDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SHOP_GIAC_UIDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SHOP_GIAC_UIDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SHOP_GIAC_UIDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SHOP_GIAC_UIDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SHOP_GIAC_UIDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SHOP_GIAC_UIDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SHOP_GIAC_UIDataSet7.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SHOP_GIAC_UIDataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SHOP_GIAC_UIDataSet8.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SHOP_GIAC_UIDataSet8.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SHOP_GIAC_UIDataSet9.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SHOP_GIAC_UIDataSet9.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <EmbeddedResource Include="fDoimatkhauUsercontrol.resx">
+      <DependentUpon>fDoimatkhauUsercontrol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fNhanhangUsercontrol.resx">
+      <DependentUpon>fNhanhangUsercontrol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fHome.resx">
+      <DependentUpon>fHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fLogin.resx">
+      <DependentUpon>fLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fQuanLyMatHang.resx">
+      <DependentUpon>fQuanLyMatHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fQuanLyNhanVien.resx">
+      <DependentUpon>fQuanLyNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fThongkeUsercontrol.resx">
+      <DependentUpon>fThongkeUsercontrol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fThutien.resx">
+      <DependentUpon>fThutien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fQuanykhachhang.resx">
+      <DependentUpon>fQuanykhachhang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fTrangchuUsercontrol.resx">
+      <DependentUpon>fTrangchuUsercontrol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fTinhTrangGiac.resx">
+      <DependentUpon>fTinhTrangGiac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="SHOP_GIAC_UIDataSet.xsc">
+      <DependentUpon>SHOP_GIAC_UIDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SHOP_GIAC_UIDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SHOP_GIAC_UIDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SHOP_GIAC_UIDataSet.xss">
+      <DependentUpon>SHOP_GIAC_UIDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SHOP_GIAC_UIDataSet1.xsc">
+      <DependentUpon>SHOP_GIAC_UIDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="SHOP_GIAC_UIDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SHOP_GIAC_UIDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SHOP_GIAC_UIDataSet1.xss">
+      <DependentUpon>SHOP_GIAC_UIDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="SHOP_GIAC_UIDataSet2.xsc">
+      <DependentUpon>SHOP_GIAC_UIDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="SHOP_GIAC_UIDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SHOP_GIAC_UIDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SHOP_GIAC_UIDataSet2.xss">
+      <DependentUpon>SHOP_GIAC_UIDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="SHOP_GIAC_UIDataSet3.xsc">
+      <DependentUpon>SHOP_GIAC_UIDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="SHOP_GIAC_UIDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SHOP_GIAC_UIDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SHOP_GIAC_UIDataSet3.xss">
+      <DependentUpon>SHOP_GIAC_UIDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="SHOP_GIAC_UIDataSet4.xsc">
+      <DependentUpon>SHOP_GIAC_UIDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="SHOP_GIAC_UIDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SHOP_GIAC_UIDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SHOP_GIAC_UIDataSet4.xss">
+      <DependentUpon>SHOP_GIAC_UIDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="SHOP_GIAC_UIDataSet5.xsc">
+      <DependentUpon>SHOP_GIAC_UIDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="SHOP_GIAC_UIDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SHOP_GIAC_UIDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SHOP_GIAC_UIDataSet5.xss">
+      <DependentUpon>SHOP_GIAC_UIDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="SHOP_GIAC_UIDataSet6.xsc">
+      <DependentUpon>SHOP_GIAC_UIDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="SHOP_GIAC_UIDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SHOP_GIAC_UIDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SHOP_GIAC_UIDataSet6.xss">
+      <DependentUpon>SHOP_GIAC_UIDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="SHOP_GIAC_UIDataSet7.xsc">
+      <DependentUpon>SHOP_GIAC_UIDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="SHOP_GIAC_UIDataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SHOP_GIAC_UIDataSet7.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SHOP_GIAC_UIDataSet7.xss">
+      <DependentUpon>SHOP_GIAC_UIDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="SHOP_GIAC_UIDataSet8.xsc">
+      <DependentUpon>SHOP_GIAC_UIDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="SHOP_GIAC_UIDataSet8.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SHOP_GIAC_UIDataSet8.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SHOP_GIAC_UIDataSet8.xss">
+      <DependentUpon>SHOP_GIAC_UIDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="SHOP_GIAC_UIDataSet9.xsc">
+      <DependentUpon>SHOP_GIAC_UIDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="SHOP_GIAC_UIDataSet9.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SHOP_GIAC_UIDataSet9.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SHOP_GIAC_UIDataSet9.xss">
+      <DependentUpon>SHOP_GIAC_UIDataSet9.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xinh tuoi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\ccccccccc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="image\h1.png" />
+    <Content Include="image\h2.png" />
+    <Content Include="image\h3.png" />
+    <Content Include="image\h4.png" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

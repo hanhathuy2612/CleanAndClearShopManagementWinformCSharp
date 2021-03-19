@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laundry_shop_manager", "Laundry_shop_manager\Laundry_shop_manager.csproj", "{A3613285-DA9F-4337-978D-3E160641EF89}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "CleanClearShopManagerment", "CleanClearShopManagerment\CleanClearShopManagerment.aiproj", "{1AAF1DC5-97E0-4DF8-9C5B-7A7D5EBC804B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3613285-DA9F-4337-978D-3E160641EF89}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{A3613285-DA9F-4337-978D-3E160641EF89}.All|Any CPU.Build.0 = Release|Any CPU
+		{A3613285-DA9F-4337-978D-3E160641EF89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3613285-DA9F-4337-978D-3E160641EF89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3613285-DA9F-4337-978D-3E160641EF89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3613285-DA9F-4337-978D-3E160641EF89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AAF1DC5-97E0-4DF8-9C5B-7A7D5EBC804B}.All|Any CPU.ActiveCfg = DefaultBuild
+		{1AAF1DC5-97E0-4DF8-9C5B-7A7D5EBC804B}.Debug|Any CPU.ActiveCfg = DefaultBuild
+		{1AAF1DC5-97E0-4DF8-9C5B-7A7D5EBC804B}.Release|Any CPU.ActiveCfg = DefaultBuild
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E1DE62B-A216-4A03-8C6B-BE059011676A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,298 @@
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\BÀI TẬP LỚN CUỐI KỲ\project-Nhom1-cSharp-winform__ShopGiacUi\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Laundry_shop_manager.exe.config
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\BÀI TẬP LỚN CUỐI KỲ\project-Nhom1-cSharp-winform__ShopGiacUi\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Laundry_shop_manager.exe
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\BÀI TẬP LỚN CUỐI KỲ\project-Nhom1-cSharp-winform__ShopGiacUi\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Laundry_shop_manager.pdb
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\BÀI TẬP LỚN CUỐI KỲ\project-Nhom1-cSharp-winform__ShopGiacUi\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\FontAwesome.Sharp.dll
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\BÀI TẬP LỚN CUỐI KỲ\project-Nhom1-cSharp-winform__ShopGiacUi\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fDoimatkhauUsercontrol.resources
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\BÀI TẬP LỚN CUỐI KỲ\project-Nhom1-cSharp-winform__ShopGiacUi\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fNhanhangUsercontrol.resources
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\BÀI TẬP LỚN CUỐI KỲ\project-Nhom1-cSharp-winform__ShopGiacUi\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fHome.resources
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\BÀI TẬP LỚN CUỐI KỲ\project-Nhom1-cSharp-winform__ShopGiacUi\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fLogin.resources
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\BÀI TẬP LỚN CUỐI KỲ\project-Nhom1-cSharp-winform__ShopGiacUi\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fQuanlytaikhoanUsercontrol.resources
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\BÀI TẬP LỚN CUỐI KỲ\project-Nhom1-cSharp-winform__ShopGiacUi\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fThongkeUsercontrol.resources
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\BÀI TẬP LỚN CUỐI KỲ\project-Nhom1-cSharp-winform__ShopGiacUi\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fThutien.resources
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\BÀI TẬP LỚN CUỐI KỲ\project-Nhom1-cSharp-winform__ShopGiacUi\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fTinhtrangdonhangUsercontrol.resources
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\BÀI TẬP LỚN CUỐI KỲ\project-Nhom1-cSharp-winform__ShopGiacUi\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fTrangchuUsercontrol.resources
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\BÀI TẬP LỚN CUỐI KỲ\project-Nhom1-cSharp-winform__ShopGiacUi\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fXemhangtonUsercontrol.resources
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\BÀI TẬP LỚN CUỐI KỲ\project-Nhom1-cSharp-winform__ShopGiacUi\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.Properties.Resources.resources
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\BÀI TẬP LỚN CUỐI KỲ\project-Nhom1-cSharp-winform__ShopGiacUi\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.csproj.GenerateResource.cache
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\BÀI TẬP LỚN CUỐI KỲ\project-Nhom1-cSharp-winform__ShopGiacUi\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.csproj.CoreCompileInputs.cache
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\BÀI TẬP LỚN CUỐI KỲ\project-Nhom1-cSharp-winform__ShopGiacUi\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.csproj.CopyComplete
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\BÀI TẬP LỚN CUỐI KỲ\project-Nhom1-cSharp-winform__ShopGiacUi\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.exe
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\BÀI TẬP LỚN CUỐI KỲ\project-Nhom1-cSharp-winform__ShopGiacUi\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.pdb
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\New folder\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Laundry_shop_manager.exe.config
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\New folder\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Laundry_shop_manager.exe
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\New folder\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Laundry_shop_manager.pdb
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\New folder\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\FontAwesome.Sharp.dll
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\New folder\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fDoimatkhauUsercontrol.resources
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\New folder\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fNhanhangUsercontrol.resources
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\New folder\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fHome.resources
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\New folder\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fLogin.resources
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\New folder\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fThongkeUsercontrol.resources
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\New folder\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fThutien.resources
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\New folder\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fTrangchuUsercontrol.resources
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\New folder\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.Properties.Resources.resources
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\New folder\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.csproj.GenerateResource.cache
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\New folder\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.csproj.CoreCompileInputs.cache
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\New folder\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.csproj.CopyComplete
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\New folder\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.exe
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\New folder\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.pdb
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\New folder\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fQuanykhachhang.resources
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\New folder\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fQuanlydonhang.resources
+E:\BÀI TẬP\LẬP TRÌNH TRỰC QUAN\New folder\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fQuanLyNhanVien.resources
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Laundry_shop_manager.exe.config
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Laundry_shop_manager.exe
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Laundry_shop_manager.pdb
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fDoimatkhauUsercontrol.resources
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fNhanhangUsercontrol.resources
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fHome.resources
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fLogin.resources
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fQuanLyNhanVien.resources
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fThongkeUsercontrol.resources
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fThutien.resources
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fQuanykhachhang.resources
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fTrangchuUsercontrol.resources
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.exe
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.pdb
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Laundry_shop_manager.exe.config
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Laundry_shop_manager.exe
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Laundry_shop_manager.pdb
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fDoimatkhauUsercontrol.resources
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fNhanhangUsercontrol.resources
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fHome.resources
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fLogin.resources
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fQuanLyNhanVien.resources
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fThongkeUsercontrol.resources
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fThutien.resources
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fQuanykhachhang.resources
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fTrangchuUsercontrol.resources
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.Properties.Resources.resources
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.csproj.GenerateResource.cache
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.csproj.CoreCompileInputs.cache
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.csproj.CopyComplete
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.exe
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.pdb
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fQuanLyMatHang.resources
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\RdlCompile.cache
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\RdlCompile.compiled
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\EnvDTE.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\stdole.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fQuanLyMatHang.resources
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.ReportViewer.Design.DLL
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\EnvDTE.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\EnvDTE80.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\stdole.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.exe.config
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\RdlCompile.cache
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\RdlCompile.compiled
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\EnvDTE80.dll
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.exe.config
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fTinhTrangGiac.resources
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fTinhTrangGiac.resources
+C:\Users\Hung\OneDrive\C_shap\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.csprojAssemblyReference.cache
+C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.csprojAssemblyReference.cache
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Laundry_shop_manager.exe.config
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Laundry_shop_manager.exe
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Laundry_shop_manager.pdb
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\FontAwesome.Sharp.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\EnvDTE.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\EnvDTE80.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\stdole.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\Microsoft.MSXML.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.csprojAssemblyReference.cache
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.exe.config
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fDoimatkhauUsercontrol.resources
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fNhanhangUsercontrol.resources
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fHome.resources
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fLogin.resources
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fQuanLyMatHang.resources
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fQuanLyNhanVien.resources
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fThongkeUsercontrol.resources
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fThutien.resources
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fQuanykhachhang.resources
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fTrangchuUsercontrol.resources
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.fTinhTrangGiac.resources
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.Properties.Resources.resources
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.csproj.GenerateResource.cache
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\RdlCompile.cache
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\RdlCompile.compiled
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.csproj.CoreCompileInputs.cache
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.csproj.CopyComplete
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.exe
+D:\Interview\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\obj\Debug\Laundry_shop_manager.pdb
