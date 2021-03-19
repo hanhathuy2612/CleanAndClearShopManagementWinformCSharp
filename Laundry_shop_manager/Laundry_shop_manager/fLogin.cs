@@ -45,7 +45,7 @@ namespace Laundry_shop_manager
 
         private void icbThoat_Click(object sender, EventArgs e)
         {
-            DialogResult result = MessageBox.Show("thoát","Thông báo", MessageBoxButtons.OKCancel);
+            DialogResult result = MessageBox.Show("Bạn có muốn thoát ứng dụng?","Thông báo", MessageBoxButtons.OKCancel);
 
             if(result == DialogResult.OK)
             {

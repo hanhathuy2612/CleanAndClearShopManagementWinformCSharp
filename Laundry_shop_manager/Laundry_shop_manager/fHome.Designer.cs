@@ -443,6 +443,7 @@ namespace Laundry_shop_manager
             this.Controls.Add(this.pnTitle);
             this.Controls.Add(this.pnTuychon);
             this.Name = "fHome";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Tag = "81";
             this.Text = "Quản lý shop giặt ủi";
             this.pnTuychon.ResumeLayout(false);
